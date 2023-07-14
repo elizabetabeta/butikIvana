@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ba.sum.fpmoz</groupId>
-    <artifactId>butik</artifactId>
+    <artifactId>Butik</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Butik</name>
-    <description>butik</description>
+    <description>Butik</description>
     <properties>
         <java.version>19</java.version>
     </properties>
