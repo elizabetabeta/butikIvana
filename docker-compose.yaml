@@ -21,7 +21,7 @@ services:
     environment:
       - MYSQL_ROOT_PASSWORD=rootpass
       - MYSQL_DATABASE=butik
-      - MYSQL_USER=butikuser
+      - MYSQL_USER=butik
       - MYSQL_PASSWORD=lozinka
     volumes:
       - mysql-data:/var/lib/mysql
